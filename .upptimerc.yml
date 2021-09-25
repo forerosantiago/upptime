@@ -7,6 +7,10 @@ sites:
     url: http://forero.xyz
   - name: UNAL Discord bot
     url: http://unal.forero.xyz
+  - name: UN Minecraft server
+    check: "tcp-ping"
+    url: us132.mchost.pro
+    port: 26498
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
