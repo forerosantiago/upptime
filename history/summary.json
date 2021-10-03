@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/forero.xyz",
     "slug": "forero-xyz",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
-    "time": 175,
-    "timeDay": 21,
-    "timeWeek": 166,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 174,
+    "timeDay": 138,
+    "timeWeek": 189,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2021-09-24": 88
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 25,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 153,
+    "timeDay": 123,
+    "timeWeek": 177,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 22,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 61,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 61,
+    "timeYear": 61,
     "dailyMinutesDown": {}
   }
 ]
