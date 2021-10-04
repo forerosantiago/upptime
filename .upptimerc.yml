@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: forero.xyz
     url: https://forero.xyz
-  - name: UNAL Discord bot
-    url: https://unal.forero.xyz/
   - name: UN Minecraft server
     check: "tcp-ping"
     url: us132.mchost.pro
