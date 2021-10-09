@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/forero.xyz",
     "slug": "forero-xyz",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 169,
-    "timeDay": 288,
-    "timeWeek": 137,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 170,
+    "timeDay": 206,
+    "timeWeek": 157,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2021-09-24": 88
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 59,
+    "time": 60,
     "timeDay": 89,
-    "timeWeek": 52,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "timeWeek": 61,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {}
   }
 ]
