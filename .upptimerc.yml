@@ -5,6 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: forero.xyz
     url: https://forero.xyz
+  - name: UNAL Discord bot
+    url: https://unal.forero.xyz
+    expectedStatusCodes:
+      - 200
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
