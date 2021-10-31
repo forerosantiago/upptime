@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/forero.xyz",
     "slug": "forero-xyz",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 181,
     "timeDay": 271,
     "timeWeek": 146,
@@ -25,17 +25,19 @@
     "url": "https://unal.forero.xyz",
     "icon": "https://favicons.githubusercontent.com/unal.forero.xyz",
     "slug": "unal-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 276,
-    "timeWeek": 151,
-    "timeMonth": 146,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "time": 156,
+    "timeDay": 271,
+    "timeWeek": 174,
+    "timeMonth": 158,
+    "timeYear": 156,
+    "dailyMinutesDown": {
+      "2021-10-31": 0
+    }
   }
 ]
