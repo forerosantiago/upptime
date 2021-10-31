@@ -25,19 +25,19 @@
     "url": "https://unal.forero.xyz",
     "icon": "https://favicons.githubusercontent.com/unal.forero.xyz",
     "slug": "unal-discord-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 271,
-    "timeWeek": 174,
-    "timeMonth": 158,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 160,
+    "timeDay": 269,
+    "timeWeek": 189,
+    "timeMonth": 167,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2021-10-31": 0
+      "2021-10-31": 72
     }
   }
 ]
