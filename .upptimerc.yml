@@ -3,8 +3,8 @@ owner: forerosantiago # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: forero.xyz
-    url: https://forero.xyz
+  - name: forero.eu.org
+    url: https://forero.eu.org
   - name: UNAL Discord bot
     url: https://unal.forero.xyz
     expectedStatusCodes:
@@ -13,10 +13,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.forero.xyz
+  cname: status.forero.eu.org
   # baseUrl: /forerosantiago
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: forero.xyz
+  name: forero.eu.org
   theme: night
   # themeUrl: https://status.forero.xyz/dracula.css
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
