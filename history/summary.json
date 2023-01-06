@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 385,
-    "timeWeek": 323,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 247,
+    "timeDay": 118,
+    "timeWeek": 289,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/unal.forero.xyz.ico",
     "slug": "unal-discord-bot",
     "status": "down",
-    "uptime": "55.95%",
+    "uptime": "55.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-01-05": 101,
+      "2023-01-06": 101,
+      "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
@@ -218,8 +219,7 @@
       "2022-03-20": 117,
       "2022-01-23": 1416,
       "2022-01-22": 560,
-      "2022-01-07": 137,
-      "2022-01-06": 1440
+      "2022-01-07": 137
     }
   }
 ]
