@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forero.eu.org.ico",
     "slug": "forero-eu-org",
     "status": "down",
-    "uptime": "55.41%",
+    "uptime": "55.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.41%",
+    "uptimeYear": "55.40%",
     "time": 260,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2023-11-27": 78,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -182,11 +183,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/unal.forero.xyz.ico",
     "slug": "unal-discord-bot",
     "status": "up",
-    "uptime": "34.39%",
-    "uptimeDay": "13.33%",
+    "uptime": "34.40%",
+    "uptimeDay": "18.75%",
     "uptimeWeek": "31.02%",
-    "uptimeMonth": "14.07%",
-    "uptimeYear": "1.33%",
+    "uptimeMonth": "14.25%",
+    "uptimeYear": "1.35%",
     "time": 2981,
     "timeDay": 1264,
     "timeWeek": 2750,
@@ -555,8 +556,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   }
 ]
