@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2023-11-28": 591,
+      "2023-11-28": 599,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -183,17 +183,17 @@
     "url": "https://unal.forero.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/unal.forero.xyz.ico",
     "slug": "unal-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "14.30%",
-    "uptimeWeek": "30.84%",
-    "uptimeMonth": "80.46%",
-    "uptimeYear": "98.37%",
-    "time": 2406,
-    "timeDay": 2253,
-    "timeWeek": 2678,
-    "timeMonth": 2803,
-    "timeYear": 2803,
+    "uptimeDay": "14.84%",
+    "uptimeWeek": "30.91%",
+    "uptimeMonth": "80.54%",
+    "uptimeYear": "98.38%",
+    "time": 2407,
+    "timeDay": 2144,
+    "timeWeek": 2660,
+    "timeMonth": 2789,
+    "timeYear": 2789,
     "dailyMinutesDown": {
       "2023-11-28": 521,
       "2023-11-27": 1125,
@@ -203,7 +203,7 @@
       "2023-11-23": 1195,
       "2023-11-22": 774,
       "2023-11-21": 560,
-      "2023-11-20": 1094
+      "2023-11-20": 1061
     }
   }
 ]
