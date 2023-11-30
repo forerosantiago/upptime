@@ -1,7 +1,7 @@
 url: https://unal.forero.xyz
-status: up
-code: 200
-responseTime: 23571
-lastUpdated: 2023-11-30T07:46:27.219Z
+status: down
+code: 502
+responseTime: 186
+lastUpdated: 2023-11-30T07:54:27.833Z
 startTime: 2021-10-28T13:53:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
