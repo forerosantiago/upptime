@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forero.eu.org.ico",
     "slug": "forero-eu-org",
     "status": "up",
-    "uptime": "55.62%",
+    "uptime": "55.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.21%",
-    "uptimeMonth": "15.24%",
-    "uptimeYear": "55.62%",
+    "uptimeWeek": "60.77%",
+    "uptimeMonth": "15.36%",
+    "uptimeYear": "55.63%",
     "time": 267,
     "timeDay": 476,
     "timeWeek": 554,
@@ -184,15 +184,15 @@
     "url": "https://unal.forero.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/unal.forero.xyz.ico",
     "slug": "unal-discord-bot",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "13.09%",
-    "uptimeWeek": "18.45%",
-    "uptimeMonth": "78.93%",
-    "uptimeYear": "98.24%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "14.05%",
+    "uptimeWeek": "18.90%",
+    "uptimeMonth": "79.13%",
+    "uptimeYear": "98.26%",
     "time": 3155,
     "timeDay": 4515,
-    "timeWeek": 3159,
+    "timeWeek": 3179,
     "timeMonth": 3155,
     "timeYear": 3155,
     "dailyMinutesDown": {
@@ -204,7 +204,7 @@
       "2023-11-28": 1103,
       "2023-11-27": 1125,
       "2023-11-26": 1249,
-      "2023-11-25": 690
+      "2023-11-25": 600
     }
   }
 ]
