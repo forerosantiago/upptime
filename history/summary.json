@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forero.eu.org.ico",
     "slug": "forero-eu-org",
     "status": "up",
-    "uptime": "59.98%",
+    "uptime": "60.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "56.79%",
     "time": 321,
-    "timeDay": 469,
-    "timeWeek": 521,
-    "timeMonth": 560,
-    "timeYear": 330,
+    "timeDay": 492,
+    "timeWeek": 520,
+    "timeMonth": 559,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2023-12-14": 43,
       "2023-11-29": 51,
@@ -178,6 +178,46 @@
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 282
+    }
+  },
+  {
+    "name": "Server",
+    "url": "$SERVER_1_URL",
+    "icon": "https://forero.eu.org/server_icon.png",
+    "slug": "server",
+    "status": "down",
+    "uptime": "95.05%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2024-01-11": 0
+    }
+  },
+  {
+    "name": "Server",
+    "url": "$SERVER_2_URL",
+    "icon": "https://forero.eu.org/server_icon.png",
+    "slug": "server",
+    "status": "down",
+    "uptime": "95.07%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "95.07%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2024-01-11": 0
     }
   }
 ]
