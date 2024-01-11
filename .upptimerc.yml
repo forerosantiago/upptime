@@ -5,6 +5,17 @@ repo: upptime # The name of this repository
 sites:
   - name: forero.eu.org
     url: https://forero.eu.org
+  - name: Server #1
+    check: "tcp-ping"
+    url: SERVER_1_URL
+    port: $SERVER_1_PORT
+    icon: https://forero.eu.org/server_icon.png
+- name: Server #2
+    check: "tcp-ping"
+    url: SERVER_2_URL
+    port: $SERVER_2_PORT
+    icon: https://forero.eu.org/server_icon.png
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,6 +25,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status report
   theme: night
+  favicon: https://forero.eu.org/favicon.png
   # themeUrl: https://status.forero.xyz/dracula.css
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
