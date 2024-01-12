@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.forero.eu.org
   # baseUrl: /forerosantiago
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://forero.eu.org/logo.png
   name: Status report
   theme: night
   favicon: https://forero.eu.org/favicon.ico
