@@ -10,11 +10,11 @@ sites:
     url: $SERVER_1_URL
     port: $SERVER_1_PORT
     icon: https://forero.eu.org/server_icon.png
-  - name: Server 2
-    check: "tcp-ping"
-    url: $SERVER_2_URL
-    port: $SERVER_2_PORT
-    icon: https://forero.eu.org/server_icon.png
+  #- name: Server 2
+  #  check: "tcp-ping"
+  #  url: $SERVER_2_URL
+  #  port: $SERVER_2_PORT
+  #  icon: https://forero.eu.org/server_icon.png
 
     
 status-website:
