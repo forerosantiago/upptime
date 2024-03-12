@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forero.eu.org.ico",
     "slug": "forero-eu-org",
     "status": "up",
-    "uptime": "64.24%",
+    "uptime": "64.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.51%",
-    "time": 377,
-    "timeDay": 665,
-    "timeWeek": 622,
-    "timeMonth": 588,
+    "uptimeYear": "55.58%",
+    "time": 378,
+    "timeDay": 538,
+    "timeWeek": 600,
+    "timeMonth": 583,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2024-02-04": 1092,
@@ -179,8 +179,7 @@
       "2023-03-17": 626,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   },
   {
@@ -195,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 165,
-    "timeWeek": 150,
-    "timeMonth": 144,
+    "timeDay": 135,
+    "timeWeek": 141,
+    "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {}
   }
