@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/forero.eu.org.ico",
     "slug": "forero-eu-org",
     "status": "down",
-    "uptime": "61.39%",
+    "uptime": "61.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "62.13%",
@@ -16,7 +16,8 @@
     "timeMonth": 1118,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-11-01": 111,
+      "2024-11-02": 102,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -155,8 +156,7 @@
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -165,15 +165,15 @@
     "icon": "https://forero.eu.org/server_icon.png",
     "slug": "server-1",
     "status": "up",
-    "uptime": "63.91%",
+    "uptime": "64.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.88%",
-    "uptimeYear": "63.91%",
+    "uptimeMonth": "57.15%",
+    "uptimeYear": "64.03%",
     "time": 137,
-    "timeDay": 114,
-    "timeWeek": 145,
-    "timeMonth": 140,
+    "timeDay": 116,
+    "timeWeek": 142,
+    "timeMonth": 138,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2024-10-15": 153,
