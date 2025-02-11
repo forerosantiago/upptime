@@ -1,8 +1,8 @@
 [
   {
     "name": "forero.eu.org",
-    "url": "http://forero.eu.org",
-    "icon": "https://icons.duckduckgo.com/ip3/forero.eu.org.ico",
+    "url": "http://forero.co",
+    "icon": "https://icons.duckduckgo.com/ip3/forero.co.ico",
     "slug": "forero-eu-org",
     "status": "up",
     "uptime": "65.63%",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.01%",
-    "time": 852,
-    "timeDay": 1037,
-    "timeWeek": 1287,
-    "timeMonth": 1483,
+    "time": 853,
+    "timeDay": 1054,
+    "timeWeek": 1265,
+    "timeMonth": 1471,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2024-12-24": 113,
@@ -145,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.31%",
     "time": 137,
-    "timeDay": 135,
-    "timeWeek": 145,
-    "timeMonth": 139,
+    "timeDay": 141,
+    "timeWeek": 146,
+    "timeMonth": 140,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2024-12-24": 113,
