@@ -4,7 +4,7 @@
     "url": "https://forero.co",
     "icon": "https://icons.duckduckgo.com/ip3/forero.co.ico",
     "slug": "forero-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 495,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Server 1",
