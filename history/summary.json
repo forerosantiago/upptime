@@ -4,7 +4,7 @@
     "url": "https://forero.co",
     "icon": "https://icons.duckduckgo.com/ip3/forero.co.ico",
     "slug": "forero-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 495,
     "timeMonth": 510,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 0
+    }
   },
   {
     "name": "Server 1",
@@ -23,7 +25,7 @@
     "icon": "https://forero.eu.org/server_icon.png",
     "slug": "server-1",
     "status": "up",
-    "uptime": "73.90%",
+    "uptime": "73.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
