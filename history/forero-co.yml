@@ -1,7 +1,7 @@
 url: https://forero.co
-status: up
-code: 200
-responseTime: 177
-lastUpdated: 2025-10-19T23:13:25.037Z
+status: down
+code: 500
+responseTime: 3373
+lastUpdated: 2025-10-20T07:18:34.205Z
 startTime: 2025-02-11T23:10:07.341Z
 generator: Upptime <https://github.com/upptime/upptime>
