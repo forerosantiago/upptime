@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forero.co.ico",
     "slug": "forero-co",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.18%",
     "time": 478,
-    "timeDay": 288,
-    "timeWeek": 427,
-    "timeMonth": 413,
+    "timeDay": 375,
+    "timeWeek": 407,
+    "timeMonth": 417,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2026-02-04": 47,
@@ -40,8 +40,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 302,
       "2025-03-10": 42,
-      "2025-03-09": 6,
-      "2025-03-02": 19
+      "2025-03-09": 6
     }
   }
 ]
